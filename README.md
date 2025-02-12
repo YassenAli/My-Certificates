@@ -1,3 +1,3 @@
 # My-Certificates
-Contains my certificates along side my journey.
+My Certificates along side my journey.
 
