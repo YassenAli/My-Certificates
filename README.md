@@ -6,6 +6,12 @@ This repository showcasing my certifications and learning achievements across va
 
 ## 🏆 Certifications
 
+### 💼 Internship
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
+<img src="/screenshots/Bee%20Interactive%20(Web%20Development).jpeg" alt="Web Development Internship Certificate" width="400" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+</div>
+
 ### 🌐 Web Development
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
     <img src="/screenshots/Coursera%20(HTML%20and%20CSS%20in%20depth).png" alt="HTML/CSS Certificate" width="400" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
