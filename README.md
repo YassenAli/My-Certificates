@@ -20,9 +20,8 @@ This repository showcasing my certifications and learning achievements across va
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
     <img src="/screenshots/Coursera%20(Version%20Control).png" alt="Version Control" width="400" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
     <img src="/screenshots/Kaggle%20(Intro%20to%20Programming).png" alt="Kaggle Programming" width="400" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
-    <!-- <div style="width: 400px; height: 300px; border: 2px dashed #ccc; border-radius: 4px; display: flex; align-items: center; justify-content: center;">
-        <p>Coming Soon:<br>High Performance Computing</p>
-    </div> -->
+    <img src="/screenshots/Mahara%20Tech%20(Introduction%20to%20High%20Performance%20Computing%20(HPC)-Ar).png" alt="HPC Arabic" width="400" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+    <img src="/screenshots/Mahara%20Tech%20(Introduction%20to%20High%20Performance%20Computing%20(HPC)-En).png" alt="HPC English" width="400" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
 </div>
 
 ### 🤖🧠 AI
